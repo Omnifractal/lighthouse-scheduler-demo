@@ -1,0 +1,26 @@
+# Compiled JavaScript files
+dist/
+dist/
+
+credentials/
+
+# TypeScript v1 declaration files
+typings/
+
+# logs
+ui-debug.log*
+debug.log*
+
+# Node.js dependency directory
+node_modules/
+
+# local env files
+.env
+
+# .tfstate files
+*.terraform
+*.tfstate
+*.tfstate.*
+
+# Puppeteer cache
+.cache
